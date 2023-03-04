@@ -1,6 +1,9 @@
+## Privacy Policy
+I will collect your device ID for pushing advertisements. I don’t use analytics to track your behaviour.
 
-技术支持
+There’s one simple exception: support requests.
 
-有任何问题或建议请联系
+## Support Requests
+You can email me, If you want, you can send along some basic diagnostic information (e.g. app and system version, device type). I use this information only to diagnose and resolve your support request. You are completely free to read, review and remove this information before sending.
 
-邮箱：moralee.cc@gmail.com
+Email: odmtre@hotmail.com
